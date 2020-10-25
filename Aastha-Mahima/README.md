@@ -14,7 +14,7 @@ Github Link: https://github.com/aastha621
 
 # Mentor
 Mahima Kataria
-Github Link: 
+Github Link: https://github.com/Mahima0312
 
 
 # Get started
