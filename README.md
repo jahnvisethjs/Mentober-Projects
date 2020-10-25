@@ -1,27 +1,26 @@
-Below is a sample readme for your project.
 
-# Project Name
-Here provide a short one line description of your project
+
+# Personal Portfolio
+This Project is a Personal Portfolio Website, which includes complete information about previous professional and educational experience.
 
 # Description
-Mention a detailed description of your project. Include different features of the app/website in case of app or web development.
+The Website was made from scratch using HTML and CSS and some components of Bootstrap. It was hosted on Firebase. The website consists of a main page and 4 subsequent pages, linked to the main page by Hyperlinks. The 4 subsequent pages are "Projects", "Positions of Responsibility", "Extracurriculars" and "Resume".
 
 # Tech Stack
-Mention the tech stack used for your project
+Technologies used for this project are: HTML, CSS, Bootstrap and Firebase. 
 
 # Mentee
-Mention the full name and github username (link) of the mentee
+Name: Nehal Gupta  
+Github username: @nehalgupta8501
+Link: https://github.com/nehalgupta8501
 
 # Mentor
-Mention the full name and github username (link) of the mentor
+Name: Rushali Khilrani
+Github username: rushalikhilrani
+Link: https://github.com/rushalikhilrani
 
 # Get started
 ```
-Provide setup instructions for your project here
+https://nehalgupta-portfolio.web.app/
+To view this project, open this link(Laptop preferred). 
 ```
-
-# Screenshots (optional)
-Provide screenshots related to the project. This step is optional.
-
-# Demo (optional)
-Provide link of demo video. This step is optional.
