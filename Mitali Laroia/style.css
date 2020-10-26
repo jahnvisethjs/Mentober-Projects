@@ -1,0 +1,177 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 1.1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: #045de9;
+    background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
+}
+
+.toolbar{
+    display: grid;
+    grid-template-columns:  repeat(auto-fit,minmax(30px,60px));
+    /*background-color: black;
+    color: rgb(0, 0, 0);
+    /*grid-gap: 1rem;*/
+    padding: 1rem;
+    justify-content: center;
+    align-items:center;
+}
+
+.tool-items{
+    background-color : black ;
+     padding-top: .6rem;
+     padding-bottom:.6rem;
+    cursor: pointer;
+    color: #ffff;
+}
+.tool-items:hover{
+    box-shadow: none;
+    background-color: #6b5e5e;
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.editor{
+   width:90vw;
+   height: 68vh;
+   margin: 2rem;
+   margin-bottom: 1rem;
+   margin-top: 1rem;
+   padding: 3rem;
+   font-size: 1.2rem;
+  /* box-shadow: 0 .1rem .4rem black;*/
+   border: 1.5px solid black;
+   overflow-y: auto;
+   background-color: white;
+   box-shadow: grey 1px;
+}
+
+.extra{
+    background-color: black;
+    color: cornsilk;
+    font-size: 20px;
+    margin-left: 300px;
+    height: 40px;
+    width: 800px;
+    text-align: center;
+    margin-top: auto;
+    border: 2px solid #6b5e5e;
+}
+
+.getcontent{
+   white-space: pre;
+   width: 80vw;
+   background-color: rgb(255, 255, 255);
+   overflow: auto;
+   padding: 1rem;
+   display: none;
+   /*margin-top: 0.1rem;*/
+   box-shadow: .1rem .1rem .5rem rgb(255, 255, 255);
+   border: 1px solid rgb(0, 0, 0);
+}
+
+
+
+.btn{
+     padding: .5rem;
+     background-color: black;
+     margin-right: 1rem;
+     color: white;
+     letter-spacing: .1rem;
+     font-size: 1rem;
+     border-radius: .2rem;
+     border: black solid 0.5px;
+     cursor: pointer;
+     outline: none;
+     /*box-shadow: 0 .4rem .4rem black;*/
+     transition: all .3s;
+}
+
+.btn:hover{
+     background-color: #6b5e5e ;
+     /*box-shadow: 0 .1rem .1rem black;*/
+}
+
+
+
+img{
+   width: 60px;
+   height: 60px;
+   margin-top: .4rem;
+   border-radius: 50rem;
+}
+label {
+   margin-left: 0.04rem;
+   padding-left:.7rem
+}
+
+.center{
+    margin-top: 0px;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+    background: #2c3e50;
+    background-image: none;
+  }
+  /* Remove IE arrow */
+  select::-ms-expand {
+    display: none;
+  }
+  /* Custom Select */
+  .select {
+      font-size: medium;
+    position: relative;
+    display: flex;
+    width: 20em;
+    height: 5em;
+    line-height: 3;
+    background: #2c3e50;
+    overflow: hidden;
+    border-radius: .25em;
+  }
+  select {
+    flex: 1;
+    padding: 0 .5em;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  /* Arrow */
+  .select::after {
+    content: '\25BC';
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0 1em;
+    background: #34495e;
+    cursor: pointer;
+    pointer-events: none;
+    -webkit-transition: .25s all ease;
+    -o-transition: .25s all ease;
+    transition: .25s all ease;
+  }
+  /* Transition */
+  .select:hover::after {
+    color: #f39c12;
+  }
+  
