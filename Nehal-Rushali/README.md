@@ -21,6 +21,7 @@ Link: https://github.com/rushalikhilrani
 
 # Get started
 ```
-https://nehalgupta-portfolio.web.app/
-To view this project, open this link(Laptop preferred). 
+To access this website, run index.html on your local machine.
+The Link of the website is: https://nehalgupta-portfolio.web.app/
+
 ```
