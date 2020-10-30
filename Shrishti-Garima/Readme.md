@@ -1,7 +1,7 @@
 
 # Domain
 Competitive Programming 
-![alt-text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F531%2F1*ksrg39Fk4QrzhVnfhNF-pg.png&imgrefurl=https%3A%2F%2Fmedium.com%2Fdev-genius%2Fcompetitive-programming-with-c-part-2-4e23cff31f5f&tbnid=jLPQe5ghViuTwM&vet=12ahUKEwiv5_eBuNzsAhUqBrcAHSHAAMsQMyggegUIARDqAQ..i&docid=nGpL2qyhpX3fbM&w=531&h=500&q=welcome%20to%20competitive%20coding%20%20&ved=2ahUKEwiv5_eBuNzsAhUqBrcAHSHAAMsQMyggegUIARDqAQ)
+![alt-text](Shrishti-Garima/images (1).jpg)
 
 # Description
 https://docs.google.com/document/d/1oXFy2HqeGWj-bnp5idUpZjxrdBEfnzwd_E1bLMlm5Ss - This is the link to tracking docs.
@@ -12,11 +12,17 @@ This docs contains following content-:
 3. Daily Problems (Assigned by mentor)
 4. Practice Problems (Selected by mentee)
 
-# Tech Stack
-Mention the tech stack used for your project
+# Programming Language
+C++
+
+# Coding Platforms
+1. Geeksforgeeks
+2. Leetcode
+3. Codechef
+4. Hackerrank
 
 # Mentee
-Mention the full name and github username (link) of the mentee
+Shrishti Goyal
 
 # Mentor
-Mention the full name and github username (link) of the mentor
+Garima Luthra
