@@ -4,7 +4,7 @@ This Project is for Online Clothing Fashion-RAMP UP which includes trending ward
 
 # Description
 The Website was made using HTML and CSS and images were taken from various sources. The website consists of an introductory page and 5 subsequent pages, linked to the main page by Hyperlinks. 
-The 4 subsequent pages are "Home", "Products", "Categories", "Login" and "ContactUs". 
+The subsequent pages are "Home", "Products", "Categories", "Login" and "ContactUs". 
 A User can login using gmail,facebook or the website itself though nothing on the backend has been integrated yet.
 
 
