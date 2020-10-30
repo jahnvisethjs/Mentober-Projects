@@ -1,6 +1,6 @@
 
 # Project Name
-This Project is for Online Clothing Fashion which includes trending wardrobe collection.
+This Project is for Online Clothing Fashion-RAMP UP which includes trending wardrobe collection.
 
 # Description
 The Website was made using HTML and CSS and images were taken from various sources. The website consists of an introductory page and 5 subsequent pages, linked to the main page by Hyperlinks. 
@@ -25,7 +25,8 @@ Link: https://github.com/Aditiverma0308
 ```
 To access this website, run rampup.html on your local machine.
 ```
+# Screenshot 
 
-
+https://drive.google.com/file/d/1HbS8p8lUcfv6vtwIoEacum5rIUxrsLKc/view?usp=sharing
 
 
