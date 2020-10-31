@@ -23,6 +23,10 @@ Use```npm start``` on terminal to start the project on local device.The project 
 
 # Screenshots (optional)
 
+<p align="center">
+  <img src="https://github.com/shivangisahay14/Mentober-Projects/blob/main/IMG-20201031-WA0012.jpg" width="50%">
+ </p>
+
 
 
 # Demo (optional)
