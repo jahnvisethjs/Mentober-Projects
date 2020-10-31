@@ -158,20 +158,4 @@ public class MainActivity extends AppCompatActivity {
             
         });
 
-        delete.setOnClickListener(view -> {
-                if(!textView.getText().toString().isEmpty())
-                {
-                    String s = textView.getText().toString();
-                    //ans=ans.substring(0,ans.length());
-                    String s1="";
-                    for(int i=0;i<s.length()-1;i++)
-                    {
-                        s1+=s.charAt(i);
-                    }
-                    //ans=ans.substring(0,s.length()-1);
-                    ans=s1;
-                    textView.setText(s1);
-                }
-
-            
-        });
+ PS- This is still incomplete, working on it right now.
