@@ -1,0 +1,56 @@
+body{
+    background-color: #212120;
+}
+.mainintro{
+    padding: 5% 7%;
+    height:700px;
+    color: azure;
+    font-size: 3em;
+    text-align: center;
+}
+.quote{
+    height: fit-content;
+    background: rgb(2,0,36);
+    background: linear-gradient(#212120 0%, rgba(170,114,0,1) 100%);
+    font-size: 2em;
+}
+.info{
+    height: fit-content;
+    background: rgb(170,114,0);
+    background: linear-gradient(rgba(170,114,0,1) 0%, rgba(240,236,98,1) 100%);
+    font-size: 2em;
+}
+.path {
+    background: rgb(240,236,98);
+    background: linear-gradient(rgba(240,236,98,1) 0%, rgba(247,245,245,1) 100%);
+    color:black;
+    font-size: 2em;
+    height: fit-content;
+}
+.challenge{
+    background-color: #f7f5f5;
+    padding: 10%;
+    height: fit-content;
+}
+.rainbow-text {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, deeppink, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.quote-text {
+    background-image: linear-gradient(to left, white, aliceblue , lightcyan,lightsalmon, lightgray, ghostwhite, lightgoldenrodyellow,  lightpink,  aliceblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.intro-text {
+    background-image: linear-gradient(to left,lightcyan 10%, blanchedalmond 40%, lightseagreen 70%,lightcyan 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.contact{
+    background-color:#212120;
+    height:400px;
+}
