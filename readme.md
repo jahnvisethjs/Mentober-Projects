@@ -18,7 +18,7 @@ Shivangi Sahay
 
 
 # Get started
-Use```npm start ``` on terminal to start the project on local device.
+Use```npm start``` on terminal to start the project on local device.The project is deployed at [https://chatbotdevanshi.herokuapp.com/](https://chatbotdevanshi.herokuapp.com/)
 
 
 # Screenshots (optional)
