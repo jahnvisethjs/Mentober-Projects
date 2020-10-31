@@ -1,5 +1,3 @@
-Below is a sample readme for your project.
-
 # Mood Note
 Analysing mood pattern over a month.
 
@@ -21,13 +19,18 @@ Shivangi Sahay
 Use```npm start``` on terminal to start the project on local device.The project is deployed at [https://chatbotdevanshi.herokuapp.com/](https://chatbotdevanshi.herokuapp.com/)
 
 
-# Screenshots (optional)
+# Screenshots 
 
 <p align="center">
   <img src="https://github.com/shivangisahay14/Mentober-Projects/blob/main/IMG-20201031-WA0012.jpg" width="50%">
  </p>
-
-
-
-# Demo (optional)
-Provide link of demo video. This step is optional.
+ <p align="center">
+  <img src="https://github.com/shivangisahay14/Mentober-Projects/blob/main/IMG-20201031-WA0013.jpg" width="50%">
+ </p>
+  <p align="center">
+  <img src="https://github.com/shivangisahay14/Mentober-Projects/blob/main/IMG-20201031-WA0014.jpg" width="50%">
+ </p>
+  <p align="center">
+  <img src="https://github.com/shivangisahay14/Mentober-Projects/blob/main/IMG-20201031-WA0015.jpg" width="50%">
+ </p>
+ 
