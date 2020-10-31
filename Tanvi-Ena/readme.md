@@ -1,8 +1,8 @@
 Below is a sample readme for your project.
 
 # Project Name
-Helping corona warriors by making website regarding registrations for plasma therapy:A solution to COVID without vaccine.
-
+1)Helping corona warriors by making website regarding registrations for plasma therapy:A solution to COVID without vaccine.
+2)Did questions practice of DSA on different platforms,file has already been added.
 # Description
 This is made by using HTML,CSS and JS.
 It contains different index pages along with styling.
