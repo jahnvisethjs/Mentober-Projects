@@ -1,0 +1,30 @@
+*{
+   background-color: #1ABC9C ;
+   box-sizing: border-box;
+}
+
+
+
+.schemes{
+    width: 100%;
+    max-width: 60rem;
+    /* 960 */
+    margin: 0 auto;
+  }
+
+  .main {
+    font-weight: 900;
+    font-size: 3.5em;
+    text-align: center;
+    text-decoration: underline;
+
+  }
+  
+  .main .letter {
+    display: inline-block;
+    line-height: 1em;
+    
+  }
+  
+  
+  

@@ -1,0 +1,38 @@
+
+*{
+    background-color: rgb(127, 236, 182);
+}
+.soil{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    top: 200px;
+    font-size:x-large;
+}
+
+.leftside{
+    height: 700px;
+    width: 700px;
+    box-sizing: border-box;
+    color: black;
+
+}
+
+.rightside{
+    
+    position: absolute;
+    top: 200px;
+    right: 200px;
+   
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin:20px;
+
+    
+    text-align: center;
+  }
