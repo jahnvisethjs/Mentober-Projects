@@ -1,25 +1,25 @@
 Below is a sample readme for your project.
 
 # Project Name
-Here provide a short one line description of your project
+Helping corona warriors by making website regarding registrations for plasma therapy:A solution to COVID without vaccine.
 
 # Description
-Mention a detailed description of your project. Include different features of the app/website in case of app or web development.
+This is made by using HTML,CSS and JS.
+It contains different index pages along with styling.
 
 # Tech Stack
 Mention the tech stack used for your project
 
 # Mentee
 Tanvi Varshney
-
+https://github.com/tanviweb19/
 
 # Mentor
-Mention the full name and github username (link) of the mentor
+Ena Chourey
+and github username (link) of the mentor
 
 # Get started
-```
-Provide setup instructions for your project here
-```
+1)home page which contains "our vision","about us","donor registation","patient registration".
 
 # Screenshots (optional)
 Provide screenshots related to the project. This step is optional.
