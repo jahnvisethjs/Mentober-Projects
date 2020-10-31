@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+  <meta charset="UTF-8">
+  <title>Teaser of website</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+  <style>
+    main { 
+      width:  1320px; 
+      height: 900px; 
+      padding: 10px; 
+      background: beige; 
+      align-items: center;
+      } 
+  </style>
+  <script language="JavaScript">
+    function showInput() {
+        document.getElementById('display').innerHTML = 
+                    document.getElementById("user_input").value;
+        document.getElementById('display_email').innerHTML = 
+                    document.getElementById("mail").value;
+        document.getElementById('display_city').innerHTML = 
+                    document.getElementById("place").value;
+    }
+  </script>
+  </head>
+  <body style="text-align: center;">
+    <main>
+    <link rel="stylesheet" href="css/style.css">
+    <h3 style="color: indigo; text-align: center;">PATIENT REGISTRATION</h3><br><br>
+    <b style="color: red;">Please do not fill out this form with multiple contact details for the same patient.</b>
+    <br><br><br>
+    <form style="color:#474343 ;">
+        <label><b>Patient's Name</b></label><br>
+        <input type="text" name="message" id="user_input" placeholder="Enter your name in caps">
+        <br><br>
+        Mobile Number:<br>
+        <input type="text"placeholder="Enter phone number" 
+        name="mobile number" required>
+        <br><br>
+        <label>Email:</label><br>
+        <input type="text" id="mail" placeholder="Enter Email" 
+        name="email" required> 
+        <br><br>
+        Age:<br>
+        <input type="text"placeholder="Enter age" 
+        name="age" required>
+        <br><br>
+        Gender:<br>
+        <input type="text"placeholder="Enter Gender" 
+        name="gender" required>
+        <br><br>
+        <label>City you are currently in:</label><br>
+        <input type="text" id="place" placeholder="Enter city" 
+        name="city" required>
+        <br><br>
+        <label>Which hospital is the patient in?</label><br>
+        <input type="text" id="hospital" placeholder="Enter name of hospital" name="hospo" required>
+        <br><br>
+        Blood group:<br>
+        <input type="text"placeholder="Enter blood group" 
+        name="blood group" required>
+        <br><br>
+        Do you have case sheet from doctor?<br>
+        <input type="radio" name="report" value="Yes"> Yes<br>
+        <input type="radio" name="report" value="Not Yet">Not Yet<br>
+        <br>
+    </form> 
+    <input type="submit" id="button" onclick="showInput();"><br/><br>
+    <label>Your name display here: </label><br>
+    <p><span id='display'></span></p>
+    <label>Your email display here: </label><br>
+    <p><span id='display_email'></span></p>
+    <label>Your city display here: </label><br>
+    <p><span id='display_city'></span></p>
+  </main>
+  <footer id = "footer"> 
+    <div class="company-details"> 
+        <div class="row"> 
+            <div id ="col1"> 
+                <span id = "icon" class="fa fa-github"></span> 
+                      
+                <span> 
+                    https://github.com/tanviweb19/Hogwartsgit
+                </span> 
+            </div> 
+                  
+            <div id ="col2"> 
+                <span id="icon" class="fa fa-instagram"></span>
+  
+                <span> 
+                    https://www.instagram.com/tanvi_here_/
+                </span> 
+            </div> 
+                      
+            <div id ="col3"> 
+                <span id="icon" class="fa fa-envelope"></span> 
+                <span>tvkasganj@gmail.com</span> 
+            </div> 
+        </div> 
+    </div> 
+              
+    <!-- Link Section -->
+    <div class="links"> 
+        <p style="text-align: center; color: rgb(255, 255, 255);">You can also visit us at</p>
+      
+        <ul class="contact"> 
+            <li> 
+                <a href="https://twitter.com/TanviVarshney2" class="fa fa-twitter"> 
+                    <span>Twitter</span><br>
+                </a> 
+            </li> 
+              
+            <li> 
+                <a href="https://www.facebook.com/tanvi.varshney.7140" class="fa fa-facebook"> 
+                    <span>Facebook</span> 
+                </a> 
+            </li>    
+        </ul> 
+    </div> 
+ 
+</footer> 
+
+  </body>
+  </html>
