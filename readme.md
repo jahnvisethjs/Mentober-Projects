@@ -1,17 +1,17 @@
 Below is a sample readme for your project.
 
-# Project Name
-Here provide a short one line description of your project
+# Mood Note
+Analysing mood pattern over a month.
 
 # Description
-Mention a detailed description of your project. Include different features of the app/website in case of app or web development.
+In this project, the user will interact with chatbot everyday for a month and feed in their emotions. this project was made using html, css , javascript and ReactJs. The chatbot is made using react-simple-chatbot. The chatbot lets user choose the emotion they are experiencing and after a month give them an analysis of the emotions that they experienced throughout the month. The project is deployed at [https://chatbotdevanshi.herokuapp.com/](https://chatbotdevanshi.herokuapp.com/)
 
 # Tech Stack
-Mention the tech stack used for your project
+HtML, CSS, Javascript, ReactJS
 
 # Mentee
-Mention the full name and github username (link) of the mentee
-
+Devanshi Katyal
+[devanshi-katyal](https://github.com/devanshi-katyal)
 # Mentor
 Mention the full name and github username (link) of the mentor
 
@@ -21,7 +21,7 @@ Provide setup instructions for your project here
 ```
 
 # Screenshots (optional)
-Provide screenshots related to the project. This step is optional.
+
 
 # Demo (optional)
 Provide link of demo video. This step is optional.
