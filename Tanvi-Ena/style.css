@@ -1,0 +1,292 @@
+html, body{
+    height: 100%;
+}
+header{
+     
+    overflow: hidden;
+}
+#top-header{
+         
+    text-align: center;
+    height: 60px;
+}
+#logo{
+    float: left;
+    padding: none;
+    margin: none;
+    height: 120px;
+    width: 30%;
+}
+ 
+#logo img{
+    width: 40%;
+    float: left;
+    padding: 15px 0px;
+} 
+#intro{
+    margin-left: auto;
+    margin-right: auto;
+    float: center;
+    padding: none;
+    margin: none;
+    height: 120px;
+    width: 30%;
+}
+#intro img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+#base{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ #header-image-menu{ 
+    top: 10px; 
+    position: relative; 
+}
+ #header-image-menu img{ 
+    width: 100%; 
+    margin: none; 
+    padding: none; 
+} 
+#image-text{ 
+    justify-items: auto;
+    position: absolute; 
+    bottom: 70%; 
+    right: 60%; 
+    font-family: 'Roboto'; 
+    color: rgb(243, 215, 56); 
+    transform: translate(-30%, -30%); 
+    text-align: right; 
+} 
+
+
+#menu{
+    float: right;
+    width: 70%;
+    height: 70%;
+    margin: none;
+}
+     
+#menu ul{
+    text-align: center;
+    float: right;
+    margin: none;
+    background: #0074D9;
+}
+     
+#menu li{
+    display: inline-block;
+    padding: none;
+    margin: none;
+}
+     
+#menu li a, #menu li span{
+    display: inline-block;
+    padding: 0em 1.5em;
+    text-decoration: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 60px;
+}
+     
+#menu li a{
+         
+    color: #FFF;
+}
+     
+#menu li:hover a, #menu li span{
+    background: #FFF;
+    color: #0074D9;
+    border-left: 1px solid #0074D9;
+    text-decoration: none;
+}
+#register{
+    display: flex;
+    float: center;
+    width: 40%;
+    height: 40%;
+    margin: 3%;
+    padding-left: 27%;
+    padding-bottom: 10%;
+}
+#one{
+    text-align: center;
+    float: center;
+    margin: none;
+    background: #e6e926;
+}
+#two{
+    text-align: center;
+    float: center;
+    margin: none;
+    background: #d6dfe7;
+}
+#register li{
+    display: inline-block;
+    padding: none;
+    margin: none;
+}
+#register li a, #register li span{
+    display: inline-block;
+    padding: 0em 1.5em;
+    text-decoration: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 60px;
+}
+#register li a{
+    color: rgb(41, 36, 36);
+}     
+#menu li:hover a, #menu li span{
+    background: #FFF;
+    color: #0074D9;
+    border-left: 1px solid #0074D9;
+    text-decoration: none;
+}
+
+#welcome{
+    font-size: 120%;
+}
+#welcome p{
+    color: #404040;
+}
+#welcome h1{
+    text-align: left;
+}
+#plasma h2{
+    font-family:cursive;
+    color:rgb(25, 180, 147);
+}
+#button { 
+    background-color:rgba(16, 179, 124, 0.938); 
+    color:white; 
+    border:none; 
+    border-radius:5px; 
+    font-size:14px; 
+    padding:5px; 
+        
+} 
+#section-2{ 
+    align-items: flex-start;
+    justify-content: space-around;
+	border-top: 0.5px solid rgba(0, 0, 0, 0.2); 
+	text-align: center;
+} 
+.row #column1, 
+.row #column2, 
+.row #column3{ 
+		float: left; 
+		width: 320px; 
+		padding: 80px 40px 80px 40px; 
+} 
+.column-title h2{ 
+	margin: 1em 0em; 
+	font-size: 1.6em; 
+	font-weight: 700; 
+}
+.company-details{ 
+	overflow: hidden; 
+	padding: 3em 3em; 
+	background: #E3F0F7; 
+	text-align: center; 
+	margin-top: 0em; 
+} 
+#footer #col1, 
+#footer #col2, 
+#footer #col3{ 
+	float: left; 
+	width: 320px; 
+	padding: 0px 40px 0px 40px; 
+} 
+#footer #icon{ 
+	display: block; 
+	margin-bottom: 1em; 
+	font-size: 3em; 
+} 
+.links
+{ 
+	overflow: hidden; 
+	padding: 0em 0em; 
+	border-top: 20px solid rgba(255, 255, 255, 0.08); 
+	text-align: center; 
+	background: #3968ce; 
+} 
+.links a 
+{ 
+	text-decoration: none; 
+	color: rgba(255, 255, 255, 0.8); 
+} 
+ul.contact{ 
+	margin: 0; 
+	padding: 2em 0em 0em 0em; 
+	list-style: none; 
+} 
+ul.contact li{ 
+	display: inline-block; 
+	padding: 0em 0.10em; 
+	font-size: 1em; 
+} 
+ul.contact li a{ 
+	color: #FFF; 
+	display: inline-block; 
+	background: #4C93B9; 
+	width: 40px; 
+	height: 40px; 
+	line-height: 40px; 
+	text-align: center; 
+} 
+.row #column1 img{
+    width: 40%;
+    float: center;
+    padding: 15px 0px;
+}  
+.row #column2 img{
+    width: 40%;
+    float: center;
+    padding: 15px 0px;
+} 
+.row #column3 img{
+    width: 40%;
+    float: center;
+    padding: 15px 0px;
+} 
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #FFFFFF;
+    font-family: 'Roboto';
+    font-size: 12pt;
+}
+         
+h1, h2, h3{
+    margin: 0;
+    padding: 0;
+    color: #404040;
+}
+     
+p, ol, ul{
+    margin-top: 0;
+}
+ 
+p {
+    line-height: 90%;
+}
+ 
+ol, ul{
+    padding: 0;
+    list-style: none;
+}
+
+
+
+
+.container{    
+    /* Set width of container to 
+        1200px and align center */
+    margin: 0px auto;
+    width: 1200px;
+}
