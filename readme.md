@@ -18,9 +18,8 @@ Shivangi Sahay
 
 
 # Get started
-```
-Provide setup instructions for your project here
-```
+Use```npm start ``` on terminal to start the project on local device.
+
 
 # Screenshots (optional)
 
