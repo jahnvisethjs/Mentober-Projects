@@ -13,7 +13,9 @@ HtML, CSS, Javascript, ReactJS
 Devanshi Katyal
 [devanshi-katyal](https://github.com/devanshi-katyal)
 # Mentor
-Mention the full name and github username (link) of the mentor
+Shivangi Sahay
+[shivangisahay14](https://github.com/shivangisahay14)
+
 
 # Get started
 ```
@@ -21,6 +23,7 @@ Provide setup instructions for your project here
 ```
 
 # Screenshots (optional)
+
 
 
 # Demo (optional)
