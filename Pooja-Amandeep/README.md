@@ -20,12 +20,12 @@ Python, Machine Learning
 # Mentee
 
 Pooja Gera
-[GitHub][https://github.com/pooja-gera]
+[GitHub](https://github.com/pooja-gera)
 
 # Mentor
 
 Amandeep Kaur
-[GitHub][https://github.com/amandeep25]
+[GitHub](https://github.com/amandeep25)
 
 # Get started
 
