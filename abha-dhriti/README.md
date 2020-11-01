@@ -22,7 +22,9 @@ Abha
 # Mentor
 Dhriti
 
-
+# Get started
+Hosted using: Netlify.app.com
+Type the url:https://abha-rawat.netlify.app/
 
 
 Yet to implement 
