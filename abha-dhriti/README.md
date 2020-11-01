@@ -1,20 +1,20 @@
-PROJECT NAME
+Project Name
 Porfolio Website || 2020 
 
-DESCRIPTION
+Description
 It contains 
 --all the details that one needs in his or her resume. 
 --drive link to the printable resume. 
 --it contains a mailto: button for convenience 
 --links to github repo of projects present
 
-TECH STACK
+Tech Stack
 Build with:HTML,CSS and Javascript.
 
-MENTEE
+Mentee
 Abha
 
-MENTOR
+Mentor
 Dhriti
 
 Yet to implement 
