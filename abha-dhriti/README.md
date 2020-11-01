@@ -7,11 +7,11 @@ It contains
 
 --all the details that one needs in his or her resume. 
 
---drive link to the printable resume. 
+--drive link to the printable resume present.
 
---it contains a mailto: button for convenience 
+--it contains a mailto: button for convenience.
 
---links to github repo of projects present
+--links to github repo of projects present.
 
 # Tech Stack
 Build with:HTML,CSS and Javascript.
@@ -24,6 +24,7 @@ Dhriti
 
 # Get started
 Hosted using: Netlify.app.com
+
 Type the url:https://abha-rawat.netlify.app/
 
 
