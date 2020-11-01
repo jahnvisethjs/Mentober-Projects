@@ -5,8 +5,7 @@ For the Mentober Project, I decided to make my personal portfolio website. It sh
 The website is made using HTML, CSS, Javascript and Bootstrap Studio. The portfolio has Home page, CV and Projects page. The website also has links to my Github, LinkedIn and Twitter profile and also has an option to contact me via email. The website is hosted via Heroku.
 
 # Tech Stack
-Technologies used for this project are: HTML, CSS, Bootstrap and Firebase.
-
+Technologies used for this project are: HTML, CSS, Javascript, Bootstrap and Heroku.
 # Mentee
 Name: Vani Chitkara
 
