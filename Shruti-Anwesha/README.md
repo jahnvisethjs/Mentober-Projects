@@ -25,4 +25,8 @@ Link: https://github.com/______
 Get started
 
 To access this website, run index.html on your local machine.
-The Link of the website is: __________
+The Link of the website is: https://shrutayyyy.github.io/resume/
+
+Link to the Github Repo with the website's code
+
+Access the [code](https://github.com/shrutayyyy/resume.git) through this repo. 
