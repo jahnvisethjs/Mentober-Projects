@@ -12,7 +12,9 @@ Tech Stack
 ==========
 
 Technologies used for this project are: HTML, CSS and Javascript.
+
 Website hosted on Github Pages.
+
 Also learned various github and git functionalities and commands through this project.
 
 Mentee
