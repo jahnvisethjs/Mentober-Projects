@@ -1,12 +1,12 @@
 Resume Website
 ===============
 
-For this project, I worked on creating my own resume website listing all my accomplishments and personal projects till date with help of my mentor Anwesha Roy.
+For this project, I worked on creating my own resume website listing all my accomplishments and personal projects till date with help from my mentor Anwesha Roy.
 
 Description
 ===========
 
-The website uses various components of HTML, CSS and Javascript. It consists of one page at the moment with various sub divisions on the website listing educational background, accomplishments, intersnships and personal projects. The website is concluded with links to my social media and information on how to contact me.
+The website uses various components of HTML, CSS and Javascript. It consists of one page at the moment with various sub divisions on the website listing educational background, accomplishments, internships and personal projects. The website is concluded with links to my social media and information on how to contact me.
 
 Tech Stack
 ==========
