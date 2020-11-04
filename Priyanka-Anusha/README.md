@@ -5,11 +5,11 @@ This website contains all the required information in concise and clear way with
 # Tech Stack
 The Tech Stack used for the project: HTML, CSS JavaScript and Bootstrap.
 # Mentee
-Name:Priyanka Chhabra
-Link:https://github.com/pcpriyankapc
+Priyanka Chhabra
+https://github.com/pcpriyankapc
 
 # Mentor
-Name:Anusha Mittal
+Anusha Mittal
 
 # Get started
 To access this website, run index.html on your local machine.
