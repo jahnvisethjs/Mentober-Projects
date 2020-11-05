@@ -13,3 +13,4 @@ Preeti Dhankar https://github.com/preeti152
 Ashi 
 
 # Get started
+https://preeti152.github.io/Generic-brand/Preeti-Ashi/index.html
