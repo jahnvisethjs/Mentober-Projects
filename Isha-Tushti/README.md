@@ -8,6 +8,8 @@ This was made using Java/Kotlin on Android Studio.
 Isha Dubey Github Link: https://github.com/isha2311
 # MENTOR
 Tushti Github Link: https://github.com/tushti0110
+# Get Started
+Copy the code onto your Android Studio and get started!
 
 .
 .
