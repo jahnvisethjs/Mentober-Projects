@@ -7,7 +7,7 @@ The aim of my project is to have an online shopping with the online music to hea
 Html5 , css3 , javascript
 
 # Mentee
-Preeti Dhankar
+Preeti Dhankar https://github.com/preeti152
 
 # Mentor
 Ashi 
