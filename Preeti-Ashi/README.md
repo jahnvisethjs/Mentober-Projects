@@ -1,19 +1,14 @@
 # Project Name
-Here provide a short one line description of your project
-
+The Generic Band
 # Description
-Mention a detailed description of your project. Include different features of the app/website in case of app or web development.
+The aim of my project is to have an online shopping with the online music to hear  without downloading it. Hence it is a Web application which is accessible of not downloading the music online from any browser apart of doing  shopping to give user friendly associate.
 
-# Tech Stack
-Mention the tech stack used for your project
+#Mention the tech stack used for your project
+Html5 , css3 , javascript
 
 # Mentee
-Mention the full name and github username (link) of the mentee
+Preeti Dhankar
 
 # Mentor
-Mention the full name and github username (link) of the mentor
-
+Ashi 
 # Get started
-```
-Provide setup instructions for your project here
-```
