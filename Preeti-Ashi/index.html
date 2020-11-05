@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Generics</title>
+        <meta name="description" content="This is the description">
+        <link rel="stylesheet" href="styles.css" />
+            <!-- Diabling the screenshot and selection -->
+    <style>
+            @media print {
+    
+                html,
+                body {
+                    display: none;
+                    /* hide whole page */
+                }
+            }
+    
+            body {
+                -webkit-user-select: none;
+                -moz-user-select: -moz-none;
+                -ms-user-select: none;
+                user-select: none;
+            }
+    
+        </style>
+        
+        
+        
+        <!-- Diabling Right Click  -->  
+        <script>
+            window.onload = function() {
+                document.addEventListener("contextmenu", function(e) {
+                    e.preventDefault();
+                }, false);
+            }
+            function reDirect()
+            {
+                window.open("./store.html");
+            }
+
+            var audio;
+
+            function playMusic(song)
+            {
+          
+                switch(song)
+                {
+                    case 1: audio = new Audio('./Songs/A Whole New World .mp3');
+                            break;
+                    case 2: audio = new Audio('./Songs/Dusk Till Dawn .mp3');
+                            break;
+                    case 3: audio = new Audio('./Songs/I Dont Wanna Live Forever .mp3');
+                            break;
+                    case 4: audio = new Audio('./Songs/Still Got Time .mp3');
+                            break;
+                }
+                document.getElementById("pausebtn").style.display="block";
+                audio.play();
+            }
+
+            function pauseMusic()
+            {
+                audio.pause();
+            }
+            function mouseOver(imgNo)
+            {
+                var imgMouse ; 
+                
+
+                switch(imgNo)
+                {
+                    case 1: imgMouse =  document.getElementById("song1");
+                            break;
+                    case 2: imgMouse =  document.getElementById("song2");
+                            break;
+                    case 3: imgMouse =  document.getElementById("song3");
+                            break;
+                    case 4: imgMouse =  document.getElementById("song4");
+                            break;
+                }
+
+                imgMouse.style.opacity = 0.3;
+            }
+
+            function mouseOut(imgNo)
+            {
+                var imgMouse ; 
+                
+
+                switch(imgNo)
+                {
+                    case 1: imgMouse =  document.getElementById("song1");
+                            break;
+                    case 2: imgMouse =  document.getElementById("song2");
+                            break;
+                    case 3: imgMouse =  document.getElementById("song3");
+                            break;
+                    case 4: imgMouse =  document.getElementById("song4");
+                            break;
+                }
+
+                imgMouse.style.opacity = 1;
+            }
+        </script>
+    </head>
+    <body>
+        <header class="main-header">
+            <nav class="nav main-nav">
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="store.html">STORE</a></li>
+                    <li><a href="about.html">ABOUT</a></li>
+                </ul>
+            </nav>
+            <h1 class="band-name band-name-large">The Generics</h1>
+            <div class="container">
+                <button type="button" class="btn btn-header" onclick="reDirect()" >Get our Latest Album</button>
+                <button type="button" class="btn btn-header" id="pausebtn" onclick="pauseMusic()" style="display: none" > Pause </button>
+            </div>
+        </header>
+    
+        
+        <section class="container content-section">
+            <h2 class="section-header">MUSIC</h2>
+            <div class="shop-items">
+                <div class="shop-item">
+                    <span class="shop-item-title">A Whole New World</span>
+                    <img class="shop-item-image" id="song1" src="Images/Album 1.png" onmouseover="mouseOver(1)" onmouseout="mouseOut(1)"   >
+                    <div class="shop-item-details">
+                        <button class="btn btn-primary shop-item-button" type="button" onclick="playMusic(1)" >PLAY</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">Dusk Till Dawn</span>
+                    <img class="shop-item-image" id="song2" src="Images/Album 2.png" onmouseover="mouseOver(2)" onmouseout="mouseOut(2)">
+                    <div class="shop-item-details">
+                        <button class="btn btn-primary shop-item-button"type="button" onclick="playMusic(2)">PLAY</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">I Dont Wanna Live Forever</span>
+                    <img class="shop-item-image" id="song3" src="Images/Album 3.png" onmouseover="mouseOver(3)" onmouseout="mouseOut(3)">
+                    <div class="shop-item-details">
+                        <button class="btn btn-primary shop-item-button" type="button" onclick="playMusic(3)">PLAY</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">Still Got Time</span>
+                    <img class="shop-item-image" id="song4" src="Images/Album 4.png" onmouseover="mouseOver(4)" onmouseout="mouseOut(4)">
+                    <div class="shop-item-details">
+                        <button class="btn btn-primary shop-item-button" type="button" onclick="playMusic(4)">PLAY</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <footer class="main-footer">
+            <div class="container main-footer-container">
+                <h3 class="band-name">The Generics</h3>
+                <ul class="nav footer-nav">
+                    <li>
+                        <a href="https://www.youtube.com" target="_blank">
+                            <img src="Images/YouTube Logo.png">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.spotify.com" target="_blank">
+                            <img src="Images/Spotify Logo.png">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com" target="_blank">
+                            <img src="Images/Facebook Logo.png">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    </body>
+</html>
