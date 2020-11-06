@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    tools:context=".Credit"
+    android:padding="30dp">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter your credit details?"
+        android:fontFamily="serif"
+        android:textColor="#FFC107"
+        android:textSize="40dp"
+        android:textStyle="bold"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="10dp"
+        android:layout_gravity="center"
+        android:text=""
+        android:textColor="#101010"
+        android:textSize="5dp" />
+
+    <EditText
+        android:id="@+id/creditamount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#000000"
+        android:textSize="30dp"
+        android:hint="Amount"
+        android:inputType="number" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="5dp"
+        android:layout_gravity="center"
+        android:text=""
+        android:textColor="#101010"
+        android:textSize="5dp" />
+
+    <EditText
+        android:id="@+id/creditreason"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#000000"
+        android:textSize="30dp"
+        android:hint="Source"
+        android:inputType="textLongMessage"
+         />
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:text=""
+        android:textColor="#101010"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/submitcredit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FFC107"
+        android:text="Submit"
+        android:textStyle="bold"
+        app:cornerRadius="10dp" />
+
+
+</LinearLayout>
