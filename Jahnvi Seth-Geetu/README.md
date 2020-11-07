@@ -8,6 +8,8 @@ Blog link for detailed description:
 
 https://jahnviseth30.medium.com/breast-cancer-risk-prediction-system-a575c2eb8130
 
+My blog is also published on Analytics Vidhya's Medium Publication, link to it ---> https://medium.com/analytics-vidhya/breast-cancer-risk-prediction-system-a575c2eb8130
+
 TECH STACK
 
 Python, Machine Learning
